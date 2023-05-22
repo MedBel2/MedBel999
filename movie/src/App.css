@@ -1,0 +1,22 @@
+.background{color:black}
+.poster{width:250px;
+height: 300px;
+margin-left: 10%;
+border: solid 10px rgb(0, 4, 5);
+
+
+}
+body {
+  background-color: #fff;
+  color: white;
+  border: solid 5px rgb(115, 196, 223);
+}
+.MovieList{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  
+}
+.movie-list{margin-bottom: 20px;}
